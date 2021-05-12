@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\TransactionApp\bin\Debug\net5.0\TransactionApp.exe
+C:\Users\Hp\Desktop\TransactionApp\bin\Debug\net5.0\TransactionApp.deps.json
+C:\Users\Hp\Desktop\TransactionApp\bin\Debug\net5.0\TransactionApp.runtimeconfig.json
+C:\Users\Hp\Desktop\TransactionApp\bin\Debug\net5.0\TransactionApp.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\TransactionApp\bin\Debug\net5.0\TransactionApp.dll
+C:\Users\Hp\Desktop\TransactionApp\bin\Debug\net5.0\ref\TransactionApp.dll
+C:\Users\Hp\Desktop\TransactionApp\bin\Debug\net5.0\TransactionApp.pdb
+C:\Users\Hp\Desktop\TransactionApp\obj\Debug\net5.0\TransactionApp.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\TransactionApp\obj\Debug\net5.0\TransactionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\TransactionApp\obj\Debug\net5.0\TransactionApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\TransactionApp\obj\Debug\net5.0\TransactionApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\TransactionApp\obj\Debug\net5.0\TransactionApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\TransactionApp\obj\Debug\net5.0\TransactionApp.dll
+C:\Users\Hp\Desktop\TransactionApp\obj\Debug\net5.0\ref\TransactionApp.dll
+C:\Users\Hp\Desktop\TransactionApp\obj\Debug\net5.0\TransactionApp.pdb
+C:\Users\Hp\Desktop\TransactionApp\obj\Debug\net5.0\TransactionApp.genruntimeconfig.cache
